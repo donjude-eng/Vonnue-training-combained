@@ -1,28 +1,25 @@
-Tutorial: 2
-HTML & CSS Crash Course Tutorial #2 - HTML Basics
-Total Time :19:51
+Tutorial 3:
+HTML & CSS Crash Course Tutorial #3 - HTML Forms
+Total time 31:54
 
-Tags
+Tag and Attributes.
+--<form (Tag) action (attribute)--Not important now.
+--<input (Tag) type = "text" id = "username"> (Username, search etc)
+--<label> (Tag)
 
---<strong> </strong> ==Make the letter bold. [2:20]
---<em> </em> (empasise)== Make the content italics.
---<small> </small> == Make the letter small.
---<h1> </h1> == Heading tag (There are six diffrent types
---<ul> </ul == Unordered list (Put bullet points in list) [4:50]
-....<li> </li> == single list item.
---<ol> </ol> == Ordered list. (Put numbers infront of list)
-....<li> </li> == single list
---<br> == Break the line (No closing Tag)
---<hr> == Horizonal tag (No closing tag and 6 diffrent type)
---<span> </span> == This tag will apply style in inline emlement.
 
-Tags and Attributes.
+Notes:
+--<input> tag contains "type "attribute type of input field. eg (text,email,password)
+... "id" attribute will identify the individual tag
+  eg; <label for="lbl-name"> Enter the name </label>
+      <input type="text" id="lbl-name" placeholder="Enter your name">
 
---<img (Tag) src (attribute) alt (attribute-- No visual effect) [10:51]
-   eg ; <img src="image.png" alt="a picture">
---<a (Tag) href (attribute)> </a> (anchor tag)--Adding Link
-   eg ; <a href="www.sample.website.com> samplewebsite </a>
---<blockquote (Tag) cite (attribute) --Quote the line from a link.
-   eg ; <blockquote cite="Website"> Line here </blockquote>
---<p style="organge"> Line </p>
+<--radio button-->
+ eg; <input type= "radio" id="rad-age" name="gender1" value="0-25"> If it is name not need to give the "value" attribute.
+     <label for="rad-age"> 0-25 </label>
 
+
+
+Input is a tag inside form tag-->
+Case should be same
+If we write two forms the it will separate the space
