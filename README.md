@@ -1,4 +1,4 @@
-------------Net Ninja------------------------
+------------Net Ninja------------------------------------------------------------------------------------------------------------------
 Notes HTML & CSS Tutorial.
 
 
@@ -22,7 +22,7 @@ Total Time:19:59
 
 >>>Add a local development server foe live refresh==Add extension [15:40]
 >>>Inspect the page [17:45]
------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Tutorial: 2
 HTML & CSS Crash Course Tutorial #2 - HTML Basics
@@ -51,7 +51,7 @@ Tags and Attributes.
 --<blockquote (Tag) cite (attribute) --Quote the line from a link.
    eg ; <blockquote cite="Website"> Line here </blockquote>
 --<p style="organge"> Line </p>
--------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Tutorial 3:
 HTML & CSS Crash Course Tutorial #3 - HTML Forms
@@ -78,7 +78,7 @@ Notes:
 Input is a tag inside form tag-->
 Case should be same
 If we write two forms the it will separate the space
------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 Tutorial 4:
 HTML & CSS Crash Course Tutorial #4 - CSS Basics
 
@@ -100,7 +100,7 @@ HTML & CSS Crash Course Tutorial #4 - CSS Basics
 ...border-color:--;
 ...border-style:--;
 
--------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Tutorial 5:
 
@@ -112,6 +112,40 @@ HTML & CSS Crash Course Tutorial #5 - CSS Classes & Selectors
   : Multiple classes : class="success.feedback"
 
 3:HTML element can inherit CSS properties thar are applied to tthier parant property.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Tutorial 6:
+HTML & CSS Crash Course Tutorial #6 - HTML 5 Semantics
+
+Semantic Tag>>
+
+<Main>
+For the main content of a webpage , unique to that page.
+
+<section>
+Defines a certain section of a webpage (eg. bloglist, contact info)
+
+<article>
+Defines a bit of content which makes up an article (eg . ablog post)
+
+<aside>
+
+Defines some content relates to something else (eg .similar blogs)
+
+<header>
+For the header of a website - contains the nav, title etc
+
+<footer>
+For the footer of a website.
+
+<li> Images or icon or list of links>
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Tutorial 7:
+HTML & CSS Crash Course Tutorial #7 - Chrome Dev Tools
+
+Go to element in inspect >> Right click in tag >> Copy the selector >> Paste it in console
 
 
 
